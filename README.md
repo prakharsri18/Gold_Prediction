@@ -37,11 +37,11 @@ We experimented with multiple models to find the best-performing approach for ou
 
 To evaluate the model’s performance, we used R-squared (R²) and correlation metrics:
 
-<b>R-squared (R²)</b>
-Description: R-squared, or the coefficient of determination, measures the proportion of variance in the actual gold prices explained by the model's predictions. An R² value closer to 1 indicates that the model accounts for most of the variability in the data, showing high predictive power.
+<b>R-squared (R²):</b>
+ R-squared, or the coefficient of determination, measures the proportion of variance in the actual gold prices explained by the model's predictions. An R² value closer to 1 indicates that the model accounts for most of the variability in the data, showing high predictive power.
 
 <b>Correlation</b>:
-Description Correlation measures the linear relationship between the predicted and actual gold prices. A positive correlation close to +1 suggests a strong agreement between predicted and actual values, while a lower correlation implies a weaker relationship.
+Correlation measures the linear relationship between the predicted and actual gold prices. A positive correlation close to +1 suggests a strong agreement between predicted and actual values, while a lower correlation implies a weaker relationship.
 
 
 <b>RESULTS</b>:
